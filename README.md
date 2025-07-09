@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<details>
+  <summary>:zap: My GitHub Stats :zap:</summary>
+  <img align="left" alt="7ranceaddic7's GitHub Stats"
+       src=https://github-readme-stats.vercel.app/api?username=7ranceaddic7&card_width=333&show_icons=true&icon_color=AA55AA&hide_rank=true&rank_icon=github&ring_color=FF55AA&border_color=000000&border_radius=0&title_color=123ABC&text_color=000000&show=prs_merged,prs_merged_percentage&bg_color=60,FF0000,EE8800,EEFF00,00DD00,00DDDD,0088FF,0000FF,8800EE,EE00EE />
+
+  
+</details>
