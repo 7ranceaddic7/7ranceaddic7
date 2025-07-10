@@ -1,4 +1,4 @@
-## Hi there 👋
+# Hi there 👋
 
 <!--
 **7ranceaddic7/7ranceaddic7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,7 +18,14 @@ EE00EE,8800EE,0000FF,0088FF,00DDDD,00DD00,EEFF00,EE8800,FF0000
 -->
 
 <details>
-  <summary>:zap: GitHub Stats :zap:</summary>
+  <summary>:zap: <h3>Recent Activity</h3> :zap:</summary>
+  <!--START_SECTION:activity-->
+
+
+</details>
+
+<details>
+  <summary>:zap: <h3>GitHub Stats</h3> :zap:</summary>
   <figure>
      <img align="center"
          alt="7ranceaddic7's GitHub Stats"
