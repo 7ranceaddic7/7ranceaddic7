@@ -83,5 +83,3 @@ EE00EE,8800EE,0000FF,0088FF,00DDDD,00DD00,EEFF00,EE8800,FF0000
           src="https://github-readme-stats.vercel.app/api/top-langs/?username=7ranceaddic7&langs_count=10&layout=donut&card_width=333&border_color=000000&border_radius=0&title_color=123ABC&text_color=000000&size_weight=0.5&count_weight=0.5&bg_color=60,FF0000,EE8800,EEFF00,00DD00,00DDDD,0088FF,0000FF,8800EE,EE00EE" />
   </picture>
 </details>
-
-
